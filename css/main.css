@@ -1,0 +1,44 @@
+.logo {
+	height: 100px;
+	width: 200px;
+}
+
+
+.nav {
+	display: flex;
+	background-color: #5D6D7E;
+	font-family: 'Verdana';
+	font-weight: 300;
+	font-size: 18px;
+}
+
+.nav a {
+	display: inline-block;
+	width: 16.66666666666667%;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	height: 25px;
+	padding: 5px 20px 10px 20px;
+}
+
+.recipes {
+	border-top: 3px solid #27AE60;
+}
+
+.ingredients {
+	border-top: 3px solid #F39C12;
+}
+
+.login {
+	border-top: 3px solid #7D3C98;
+}
+
+.orders {
+	border-top: 3px solid #ff0000;
+}
+
+a:hover {
+	opacity: 0.1;
+	background-color: #85929E;
+}

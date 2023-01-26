@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="264.58331mm"
+   height="267.22916mm"
+   viewBox="0 0 264.58331 267.22916"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="01122022.svg"
+   inkscape:export-filename="C:\Users\Jere\OneDrive\itech\01122022.png"
+   inkscape:export-xdpi="95.049507"
+   inkscape:export-ydpi="95.049507"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="391.08648"
+     inkscape:cy="542.52516"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2123">
+      <stop
+         style="stop-color:#8d5fd3;stop-opacity:1"
+         offset="0"
+         id="stop2119" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop2121" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath838">
+      <path
+         d="M 0,0 H 3125 V 3156.25 H 0 Z"
+         clip-rule="evenodd"
+         id="path836" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath850">
+      <path
+         d="M 0,0 H 3125 V 3125 H 0 Z"
+         clip-rule="evenodd"
+         id="path848" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath862">
+      <path
+         d="M 0,0 H 3125 V 3125 H 0 Z"
+         clip-rule="evenodd"
+         id="path860" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath874">
+      <path
+         d="M 0,0 H 3125 V 3125 H 0 Z"
+         clip-rule="evenodd"
+         id="path872" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2123"
+       id="linearGradient2117"
+       x1="129.59708"
+       y1="138.18793"
+       x2="300.19653"
+       y2="279.45914"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2123"
+       id="linearGradient3375"
+       gradientUnits="userSpaceOnUse"
+       x1="32.937828"
+       y1="98.532852"
+       x2="301.84882"
+       y2="285.24216" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2123"
+       id="linearGradient4731"
+       gradientUnits="userSpaceOnUse"
+       x1="32.937828"
+       y1="98.532852"
+       x2="249.80153"
+       y2="243.9348" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2123"
+       id="linearGradient4733"
+       gradientUnits="userSpaceOnUse"
+       x1="32.937828"
+       y1="98.532852"
+       x2="249.80153"
+       y2="243.9348" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter11530"
+       x="-0.032259887"
+       y="-0.049238244"
+       width="1.0645198"
+       height="1.0984765">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3587491"
+         id="feGaussianBlur11532" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12528"
+       x="-0.026138079"
+       y="-0.1258275"
+       width="1.0522762"
+       height="1.251655">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1900574"
+         id="feGaussianBlur12530" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2">
+    <rect
+       style="fill:#001212;stroke-width:1;stroke-linecap:round;fill-opacity:0.18000001"
+       id="rect3859"
+       width="295.76077"
+       height="280.89008"
+       x="-15.283728"
+       y="-8.2614479"
+       ry="6.1961184" />
+  </g>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.5442272,-4.7651213)">
+    <g
+       id="g12552">
+      <g
+         id="g2079"
+         style="fill:#000000;fill-opacity:1;filter:url(#filter11530)"
+         transform="translate(-0.54802899)">
+        <text
+           style="font-variant:normal;font-weight:normal;font-size:109.026px;font-family:CanvaSans;-inkscape-font-specification:CanvaSans-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.9206"
+           id="text880"
+           x="0.87461245"
+           y="246.28177"><tspan
+             x="0.87461245 60.708122 137.25668 197.09019"
+             y="246.28177"
+             sodipodi:role="line"
+             id="tspan878"
+             style="fill:#000000;fill-opacity:1;stroke-width:2.9206">2022</tspan></text>
+        <text
+           style="font-variant:normal;font-weight:normal;font-size:63.0269px;font-family:CanvaSans;-inkscape-font-specification:CanvaSans-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.93918"
+           id="text886"
+           x="36.731449"
+           y="138.42821"><tspan
+             x="36.731449 80.985664"
+             y="138.42821"
+             sodipodi:role="line"
+             id="tspan884"
+             style="fill:#000000;fill-opacity:1;stroke-width:3.93918">01</tspan></text>
+        <text
+           style="font-variant:normal;font-weight:normal;font-size:85.7333px;font-family:CanvaSans;-inkscape-font-specification:CanvaSans-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.537479"
+           id="text892"
+           x="142.03081"
+           y="147.84808"><tspan
+             x="142.03081 187.65747"
+             y="147.84808"
+             sodipodi:role="line"
+             id="tspan890"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.537479">12</tspan></text>
+      </g>
+      <g
+         id="g11276"
+         style="fill:url(#linearGradient2117);fill-opacity:1"
+         transform="translate(-0.54802899)">
+        <text
+           style="font-variant:normal;font-weight:normal;font-size:109.026px;font-family:CanvaSans;-inkscape-font-specification:CanvaSans-Regular;writing-mode:lr-tb;fill:url(#linearGradient3375);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.9206"
+           id="text11266"
+           x="0.87461245"
+           y="246.28177"><tspan
+             x="0.87461245 60.708122 137.25668 197.09019"
+             y="246.28177"
+             sodipodi:role="line"
+             id="tspan11264"
+             style="fill:url(#linearGradient3375);fill-opacity:1;stroke-width:2.9206">2022</tspan></text>
+        <text
+           style="font-variant:normal;font-weight:normal;font-size:63.0269px;font-family:CanvaSans;-inkscape-font-specification:CanvaSans-Regular;writing-mode:lr-tb;fill:url(#linearGradient4731);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.93918"
+           id="text11270"
+           x="36.731449"
+           y="138.42821"><tspan
+             x="36.731449 80.985664"
+             y="138.42821"
+             sodipodi:role="line"
+             id="tspan11268"
+             style="fill:url(#linearGradient4731);fill-opacity:1;stroke-width:3.93918">01</tspan></text>
+        <text
+           style="font-variant:normal;font-weight:normal;font-size:85.7333px;font-family:CanvaSans;-inkscape-font-specification:CanvaSans-Regular;writing-mode:lr-tb;fill:url(#linearGradient4733);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.537479"
+           id="text11274"
+           x="142.03081"
+           y="147.84808"><tspan
+             x="142.03081 187.65747"
+             y="147.84808"
+             sodipodi:role="line"
+             id="tspan11272"
+             style="fill:url(#linearGradient4733);fill-opacity:1;stroke-width:0.537479">12</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g12536"
+       transform="translate(0,24.870843)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:24.0244px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.600612;filter:url(#filter12528)"
+         x="77.851189"
+         y="27.701122"
+         id="text7289"><tspan
+           sodipodi:role="line"
+           id="tspan7287"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.600612"
+           x="77.851189"
+           y="27.701122">Gruppe 8</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:24.0244px;line-height:1.25;font-family:sans-serif;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.600612"
+         x="77.851189"
+         y="27.701122"
+         id="text12436"><tspan
+           sodipodi:role="line"
+           id="tspan12434"
+           style="fill:#808080;fill-opacity:1;stroke-width:0.600612"
+           x="77.851189"
+           y="27.701122">Gruppe 8</tspan></text>
+    </g>
+  </g>
+</svg>

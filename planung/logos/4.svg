@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="29.018425mm"
+   height="29.018425mm"
+   viewBox="0 0 29.018425 29.018425"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\Jere\OneDrive\itech\4.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.1241863"
+     inkscape:cx="44.20214"
+     inkscape:cy="63.327128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient13406">
+      <stop
+         style="stop-color:#bc5fd3;stop-opacity:1"
+         offset="0"
+         id="stop13402" />
+      <stop
+         style="stop-color:#2ad4ff;stop-opacity:1"
+         offset="1"
+         id="stop13404" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12730"
+       x="-0.046144563"
+       y="-0.036364882"
+       width="1.0922891"
+       height="1.0727298">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.24132578"
+         id="feGaussianBlur12732" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13406"
+       id="linearGradient13400"
+       x1="99.292595"
+       y1="142.09735"
+       x2="113.492"
+       y2="158.25887"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter14010"
+       x="-0.03898053"
+       y="-0.03898053"
+       width="1.0779611"
+       height="1.0779611">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.41596398"
+         id="feGaussianBlur14012" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-90.490784,-133.9908)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:round;filter:url(#filter14010)"
+       id="rect13972"
+       width="25.610569"
+       height="25.610569"
+       x="92.194717"
+       y="135.69472"
+       ry="5.7830319" />
+    <rect
+       style="fill:#3c3c3c;fill-opacity:1;stroke-width:1;stroke-linecap:round"
+       id="rect12190"
+       width="25.610569"
+       height="25.610569"
+       x="92.194717"
+       y="135.69472"
+       ry="5.7830319" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.9567px;line-height:1.25;font-family:sans-serif;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.623918;filter:url(#filter12730)"
+       x="98.200287"
+       y="156.46347"
+       id="text12710"><tspan
+         sodipodi:role="line"
+         id="tspan12708"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.9567px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.623918"
+         x="98.200287"
+         y="156.46347">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.9567px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient13400);fill-opacity:1;stroke:none;stroke-width:0.623918"
+       x="98.200287"
+       y="156.46347"
+       id="text3422"><tspan
+         sodipodi:role="line"
+         id="tspan3420"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.9567px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient13400);fill-opacity:1;stroke-width:0.623918"
+         x="98.200287"
+         y="156.46347">4</tspan></text>
+  </g>
+</svg>
