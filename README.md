@@ -12,6 +12,6 @@ ERD: https://app.diagrams.net/#H01-12-2022%2FChallenge-3%2Fdev%2FChallenge3
   
   2: ~~erste Woche~~ bis eine Woche vor Abgabe
   
-  3: 3 Tage vor Abgabe
+  3: ~~3~~ 2 Tage vor Abgabe
   
   4: Endspurt :)
